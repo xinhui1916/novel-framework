@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+
+# Project files (user data should not be committed)
+/project-name/
+/chapters/
